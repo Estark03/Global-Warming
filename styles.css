@@ -1,0 +1,38 @@
+.img1, .img2, .img3 {
+  display:flex;
+    justify-content: space-between;
+    margin: 25px;
+}
+
+h1 {
+    text-align:center;
+    
+}
+
+
+
+
+
+
+
+
+
+.polar {
+   display: flex;   
+     border: solid 5px;
+ height: 210px;
+}
+
+
+.garbage {
+   display: flex;   
+     border: solid 5px;
+ height: 190px;
+  
+}
+
+.fire {
+   display: flex;   
+     border: solid 5px;
+ height: 200px;
+}
